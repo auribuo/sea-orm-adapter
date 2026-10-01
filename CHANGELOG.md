@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.5.0] 2026-10-01
+- breaking: upgraded sea-orm to v2 
+- breaking: removed support for the actix runtime
+
 ## [0.4.0] 2024-08-06
 
 - breaking: change primary key type from `i32` to `i64`.
